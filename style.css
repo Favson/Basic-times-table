@@ -20,5 +20,9 @@ body::after {
 
 .firstDiv{
     padding-top: 50px;
-    padding-left: 250px;
+}
+
+#dispDiv{
+    background-color: #708090;
+    /* align-items: center; */
 }
