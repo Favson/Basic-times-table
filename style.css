@@ -26,3 +26,9 @@ body::after {
     background-color: #708090;
     /* align-items: center; */
 }
+
+#makeATable{
+    background-color: #0F2A3D;
+    border: none;
+    color: white;
+}
